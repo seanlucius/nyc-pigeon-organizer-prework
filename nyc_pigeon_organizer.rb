@@ -21,5 +21,6 @@
 
 def nyc_pigeon_organizer(data)
   pigeon_list = {}
+  pigeon_names = []
   data.each do |
 end
