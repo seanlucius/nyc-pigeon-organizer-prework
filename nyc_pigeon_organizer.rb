@@ -24,7 +24,9 @@ def nyc_pigeon_organizer(data)
   pigeon_names = []
   data.each do |attribute, details|
     details.each do |detail, names|
-      
+      names.each do |name|
+        
+      end 
     end 
   end 
 end
